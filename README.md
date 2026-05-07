@@ -1,6 +1,6 @@
   # 🔵 QualityBoard
 
-📌## Sobre o Projeto
+   Sobre o Projeto:
 
 O QualityBoard é um sistema moderno de gerenciamento de tarefas inspirado no projeto Board da DIO, porém evoluído para uma arquitetura profissional baseada em microsserviços.
 
